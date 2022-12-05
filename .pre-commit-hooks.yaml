@@ -6,6 +6,7 @@
   fail_fast: false
   verbose: false
   require_serial: true
+  additional_dependencies: ["swag@latest"]
   description: 'Run swag fmt to format Swag annotations in your code.'
   args: []
 
